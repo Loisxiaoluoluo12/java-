@@ -29,16 +29,17 @@ Java作业
 * Test类中分别实例化Pc，Cpu，HardDisk
 * 通过调用get和set方法，构造方法进行传值
 ## 实验目的
-1.学会类中属性和方法的定义。     
+1.学会类中属性和方法的定义。       
 2.学会构造方法的定义和使用。    
 3.熟悉private protected public等四个权限的使用。  
 4.掌握set和get方法的传值和得到值的逻辑思路。  
 5.学会简单合理的逻辑判断。  
 ## 实验过程
-1.首先建立四个不同的类。  
-2.完善类中的内容。   
-3.调用类中的相关信息。  
-4.运行程序，展示结果。  
+1.分析题目的相关需求。  
+2.首先建立四个不同的类。  
+3.完善类中的内容。   
+4.调用类中的相关信息。  
+5.运行程序，展示结果。  
 ## 核心方法
 (1)构造方法
 ```
@@ -68,8 +69,8 @@ public float getPrice() {
 ```
 ## 实验结果
 (1)Test类运行结果  
-![alt console](http://m.qpic.cn/psc?/V52yqGBZ0K1FfT4VLt0D434dKK44lH1q/ruAMsa53pVQWN7FLK88i5nTUByIa3bhU1B8LNwNvb.*hnBco1JpOT*iH2wTjDxO8bofGVmVdpZGNM1uVPOdr.ebN*8F0loqZWTAKBm3AdE0!/b&bo=nAG3AAAAAAADBwg!&rf=viewer_4)）   
+![alt console](http://m.qpic.cn/psc?/V52yqGBZ0K1FfT4VLt0D434dKK44lH1q/ruAMsa53pVQWN7FLK88i5nTUByIa3bhU1B8LNwNvb.*hnBco1JpOT*iH2wTjDxO8bofGVmVdpZGNM1uVPOdr.ebN*8F0loqZWTAKBm3AdE0!/b&bo=nAG3AAAAAAADBwg!&rf=viewer_4)   
 (2)Cpu类运行结果  
-![alt console](http://m.qpic.cn/psc?/V52yqGBZ0K1FfT4VLt0D434dKK44lH1q/ruAMsa53pVQWN7FLK88i5izmTt4TtH05AzIVY7Jo1auNte6YTSeF1XsTW049spv25eKmPvxo2wajO454*l.3LX6M9bJjQPsnRcux1fWu7E4!/b&bo=DgK8AAAAAAADB5I!&rf=viewer_4)
-## 实验感想
-在该实验中，我掌握如何写构造方法、掌握了权限的使用要求，并知道了如何向方法中传递信息和从方法中返回信息。  
+![alt console](http://m.qpic.cn/psc?/V52yqGBZ0K1FfT4VLt0D434dKK44lH1q/ruAMsa53pVQWN7FLK88i5izmTt4TtH05AzIVY7Jo1auNte6YTSeF1XsTW049spv25eKmPvxo2wajO454*l.3LX6M9bJjQPsnRcux1fWu7E4!/b&bo=DgK8AAAAAAADB5I!&rf=viewer_4) 
+## 实验感想 
+在该实验中，我掌握如何写构造方法、掌握了权限的使用要求，并知道了如何向方法中传递信息和从方法中返回信息。希望在以后的学习中能够了解到更多的编程信息。  
