@@ -73,4 +73,4 @@ public float getPrice() {
 (2)Cpu类运行结果  
 ![alt console](http://m.qpic.cn/psc?/V52yqGBZ0K1FfT4VLt0D434dKK44lH1q/ruAMsa53pVQWN7FLK88i5izmTt4TtH05AzIVY7Jo1auNte6YTSeF1XsTW049spv25eKmPvxo2wajO454*l.3LX6M9bJjQPsnRcux1fWu7E4!/b&bo=DgK8AAAAAAADB5I!&rf=viewer_4) 
 ## 实验感想 
-在该实验中，我掌握如何写构造方法、掌握了权限的使用要求，并知道了如何向方法中传递信息和从方法中返回信息。希望在以后的学习中能够了解到更多的编程信息。  
+在该实验中，我掌握如何写构造方法、掌握了权限的使用要求，并知道了如何向方法中传递信息和从方法中返回信息。希望在以后的学习中能够了解到更多的编程信息.   
